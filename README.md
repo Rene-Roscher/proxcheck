@@ -1,4 +1,4 @@
-# Proxcheck | Proxmox VM-Monitoring
+# Proxcheck | Proxmox Monitoring
 
 Check your VMs at a desired interval for exceeding their maximum configured workload
 
