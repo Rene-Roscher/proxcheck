@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f7dd09c-aeb7-4b95-8c9b-4512e2ef7584" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fXrsgRhJWRjVoVicQt0Ebqx1Mg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rene\Desktop\proxcheck" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7dd09c-aeb7-4b95-8c9b-4512e2ef7584" name="Default Changelist" comment="" />
+      <created>1596375486246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596375486246</updated>
+      <workItem from="1596375487821" duration="1093000" />
+      <workItem from="1596491698387" duration="2249000" />
+      <workItem from="1596533816247" duration="627000" />
+      <workItem from="1596984858092" duration="18299000" />
+      <workItem from="1597062191619" duration="3193000" />
+      <workItem from="1598079475390" duration="1788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="453" key="NewPhpFileDialog" timestamp="1597007168453">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="762" y="453" key="NewPhpFileDialog/0.0.1858.1080/1982.0.1858.1080@0.0.1858.1080" timestamp="1597007168453" />
+    <state x="92" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598080749539">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="92" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1858.1080/1982.0.1858.1080@0.0.1858.1080" timestamp="1598080749539" />
+    <state x="615" y="256" width="627" height="568" key="find.popup" timestamp="1598081249791">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="615" y="256" width="627" height="568" key="find.popup/0.0.1858.1080/1982.0.1858.1080@0.0.1858.1080" timestamp="1598081249791" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1597007309200">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/1982.0.1858.1080@0.0.1858.1080" timestamp="1597007309200" />
+  </component>
+</project>
