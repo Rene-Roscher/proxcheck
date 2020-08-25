@@ -14,8 +14,6 @@ setInterval(() => proxmox.get('/cluster/resources').then((res) => {
         const [key, value] = entry;
         if (value.type === 'qemu' || value.type === 'lxc' && value.status === 'running') {
             let vmid = value.id.split('/')[1];
-            if (parseInt(vmid) !== 18215)
-                return;
             proxmox.get(`/nodes/${value.node}/${value.id}/rrddata?timeframe=${config.proxmox.vm.timeframe}&cf=${config.proxmox.vm.cf}`).then((res) => {
                 let cpuScore = 0, memScore = 0, netScore = 0;
                 JSON.parse(res.text).data.forEach(data => {
